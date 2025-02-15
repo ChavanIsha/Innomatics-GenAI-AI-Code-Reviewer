@@ -14,6 +14,8 @@ The application should also provide the fixed code snippets.
 
 # Technology Used:
 Gemini API
+
 Python
+
 Streamlit
 
